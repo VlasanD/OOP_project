@@ -8,7 +8,7 @@ public class GUIFrameSinglePointAccess {
 
     private static JFrame initFrame() {
         JFrame frame = new JFrame();
-        frame.setSize(500, 500);
+        frame.setSize(1100, 260);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
